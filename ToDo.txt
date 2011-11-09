@@ -1,0 +1,13 @@
+************************
+*
+*  Soldier
+*
+********************
+
+9/29
+	-make platform deploy above character, not in same spot every time
+		-update x and y  when updating visibility
+	-multiplayer platform functionality
+		-pass platform tag
+
+9/28
